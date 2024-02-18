@@ -1,0 +1,5 @@
+/*
+//truco para poner el modo oscuro
+html {
+  filter: invert(1);
+}
